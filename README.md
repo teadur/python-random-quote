@@ -1,3 +1,5 @@
+[![Python package](https://github.com/teadur/python-random-quote/actions/workflows/python-package.yml/badge.svg)](https://github.com/teadur/python-random-quote/actions/workflows/python-package.yml)
+
 # Let's Write a Python Quote Bot!
 
 This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com) intro to Python.
